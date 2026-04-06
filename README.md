@@ -26,7 +26,7 @@
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
 ![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge\&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge\&logo=css3)
-![Javascript]
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)  
 
 ---
 
@@ -61,7 +61,7 @@
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://www.linkedin.com/in/shruti-riya-525149306/?skipRedirect=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shruti-riya-525149306)
 
 ---
 
