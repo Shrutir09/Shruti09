@@ -57,7 +57,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](www.linkedin.com/in/shruti-riya-525149306)
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
