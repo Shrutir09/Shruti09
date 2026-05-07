@@ -60,6 +60,10 @@
 https://streak-stats.demolab.com?user=Shrutir09&theme=tokyonight&hide_border=true
 ---
 
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shrutir09&theme=tokyo-night&hide_border=true" />
+
 ## 📂 Projects
 
 🚀 Check out my projects here:
