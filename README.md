@@ -20,13 +20,38 @@
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge\&logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge\&logo=java)
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 
 ### 🌐 Frontend
 
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
 ![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge\&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge\&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)  
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript) 
+<img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+
+### 🗄️ Database
+
+<img src="https://img.shields.io/badge/DBMS-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
+
+## 🚀 Deployment
+
+<img src="https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+
+## 🛠️ Tools
+
+<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
+
+## 🤖 AI Tools & Platforms
+
+<img src="https://img.shields.io/badge/GITHUB_COPILOT-181717?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+
+<img src="https://img.shields.io/badge/CURSOR-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+
+<img src="https://img.shields.io/badge/CLAUDE-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+
+<img src="https://img.shields.io/badge/ANTIGRAVITY-6C63FF?style=for-the-badge&logo=rocket&logoColor=white" />
+
 
 ---
 
