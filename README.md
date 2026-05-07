@@ -57,8 +57,7 @@
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)](https://git.io/streak-stats)
-
+https://streak-stats.demolab.com?user=Shrutir09&theme=tokyonight&hide_border=true
 ---
 
 ## 📂 Projects
