@@ -62,7 +62,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/tokyonight/Shrutir09" alt="Shruti's GitHub Contribution Chart" width="100%" />
+  <img src="https://ghchart.rshah.org/40c463/Shrutir09" alt="Shruti's GitHub Contribution Chart" width="100%" />
 </p>
 
 ---
