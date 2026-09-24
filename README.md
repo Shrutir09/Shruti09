@@ -52,14 +52,18 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shrutir09&theme=tokyonight&show_icons=true&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=Shrutir09&theme=tokyonight&hide_border=true)
+<p align="center">
+  
+  <img src="https://streak-stats.demolab.com?user=Shrutir09&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
+</p>
 
 ---
 
 ## 📈 Contribution Graph
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shrutir09&theme=tokyo-night&hide_border=true)
+<p align="center">
+  <img src="https://ghchart.rshah.org/tokyonight/Shrutir09" alt="Shruti's GitHub Contribution Chart" width="100%" />
+</p>
 
 ---
 
@@ -94,13 +98,17 @@
 
 ## 👀 Profile Views
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Shrutir09&color=blue&style=flat-square)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shrutir09&color=blue&style=flat-square" alt="Visitor Count" />
+</p>
 
 ---
 
 ## ✨ Fun Touch
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F70000&width=435&lines=Welcome+to+my+GitHub!;Aspiring+Developer;AI+Enthusiast;DSA+Learner+%F0%9F%9A%80)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F70000&width=435&lines=Welcome+to+my+GitHub!;Aspiring+Developer;AI+Enthusiast;DSA+Learner+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
 ---
 
