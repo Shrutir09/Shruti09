@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shruti Riya
 
-🎓 B.Tech (CSE) | 3rd Year Student
+🎓 B.Tech (CSE) | Final Year Student  
 🏫 Dr. APJ Abdul Kalam Women's Institute of Technology
 
 ---
@@ -17,57 +17,56 @@
 
 ### 👩‍💻 Languages
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge\&logo=c%2B%2B)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge\&logo=java)
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### 🌐 Frontend
 
-![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
-![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge\&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge\&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript) 
-<img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### 🗄️ Database
 
-<img src="https://img.shields.io/badge/DBMS-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 🚀 Deployment
+### 🚀 Deployment
 
-<img src="https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-## 🛠️ Tools
+### 🛠️ Tools
 
-<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 
-## 🤖 AI Tools & Platforms
+### 🤖 AI Tools & Platforms
 
-<img src="https://img.shields.io/badge/GITHUB_COPILOT-181717?style=for-the-badge&logo=githubcopilot&logoColor=white" />
-
-<img src="https://img.shields.io/badge/CURSOR-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-
-<img src="https://img.shields.io/badge/CLAUDE-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-
-<img src="https://img.shields.io/badge/ANTIGRAVITY-6C63FF?style=for-the-badge&logo=rocket&logoColor=white" />
-
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-https://streak-stats.demolab.com?user=Shrutir09&theme=tokyonight&hide_border=true
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shrutir09&theme=tokyonight&show_icons=true&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Shrutir09&theme=tokyonight&hide_border=true)
+
 ---
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shrutir09&theme=tokyo-night&hide_border=true" />
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shrutir09&theme=tokyo-night&hide_border=true)
+
+---
 
 ## 📂 Projects
 
-🚀 Check out my projects here:
-👉 https://github.com/Shrutir09
+🚀 Check out my projects here:  
+👉 [github.com/Shrutir09](https://github.com/Shrutir09)
 
 ---
 
@@ -89,19 +88,19 @@ https://streak-stats.demolab.com?user=Shrutir09&theme=tokyonight&hide_border=tru
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shruti-riya-525149306)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shruti-riya-525149306)
 
 ---
 
 ## 👀 Profile Views
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Shrutir09\&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=Shrutir09&color=blue&style=flat-square)
 
 ---
 
 ## ✨ Fun Touch
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000\&lines=Welcome+to+my+GitHub!;Aspiring+Developer;AI+Enthusiast;DSA+Learner🚀)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F70000&width=435&lines=Welcome+to+my+GitHub!;Aspiring+Developer;AI+Enthusiast;DSA+Learner+%F0%9F%9A%80)
 
 ---
 
